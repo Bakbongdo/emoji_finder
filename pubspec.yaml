@@ -1,7 +1,6 @@
 name: emoji_finder
 description: "This package will help you check if an emoji is used in your text without hardcoding(e.g. \uFE0F)."
 version: 0.0.1
-publisher: bakbongdo@gmail.com
 repository: https://github.com/Bakbongdo/emoji_finder.git
 
 environment:
